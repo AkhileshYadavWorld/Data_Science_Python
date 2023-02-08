@@ -1,0 +1,3 @@
+Advantages of Numpy Array over Python List:
+Numpy Arrays provide Vector operation while Python Lists does not support Vector Operation
+Numpy Arrays can't consist of nested Arrays but Python List can contain Nested Data List.
